@@ -1,0 +1,7 @@
+{
+  "name": "luxuryluke/kirby-filetemplates",
+  "type": "kirby-plugin",
+  "extra": {
+		"installer-name": "filetemplates"
+  }
+}
